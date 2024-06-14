@@ -1,2 +1,4 @@
 hkshort.weixin.qq.com
 data.bilibili.com
+trade-acs.m.taobao.com
+amdc.m.taobao.com
